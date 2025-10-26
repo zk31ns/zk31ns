@@ -35,5 +35,6 @@
 - Аутентификация через JWT-токены
 
 **Технологии:**  
+
 `Python` `Django` `DRF` `Simple JWT` `Djoser`
 
