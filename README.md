@@ -1,6 +1,6 @@
 # 👋 Привет! Я — Александр, Python backend разработчик
 💻 **Стек:** Python, Django, DRF, FastAPI, PostgreSQL, Docker, Nginx
-🚀 **Опыт:** ...
+
 📫 **Контакты:** [Telegram](https://t.me/zk31ns) | [Email](zk31ns@gmail.com)
 
 ---
