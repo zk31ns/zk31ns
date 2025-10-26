@@ -26,7 +26,9 @@
 ---
 
 ### 🔹 [Yatube API](https://github.com/zk31ns/api_final_yatube)
-**REST API для социальной сети Yatube** на Django REST Framework.  
+
+**REST API для социальной сети Yatube** на Django REST Framework. 
+
 **Функционал:**
 - Публикация постов
 - Комментирование записей
